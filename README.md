@@ -1,4 +1,4 @@
-# Taller-7-SQL-1-Sentencias-b-sicas-y-setup
+# Taller-7-SQL-1-Sentencias-basicas-y-setup
 
 Taller de SQL
 Crear una base de datos en MySQL que incluya la primera, segunda y tercera forma normal de SQL. La base de datos consiste en dar solución a una tienda que contiene lo siguiente:
